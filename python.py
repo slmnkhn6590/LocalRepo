@@ -1,10 +1,5 @@
-print("hello world?")
-<<<<<<< HEAD
-print("welcome to the world of computer")
-
-dahsfhakj
-sdjfljsalk
-dlkasfjkljs
-=======
-print("hello world")
->>>>>>> 1c28d2ba7356979a250bac771de103304cde3035
+n = 5 
+while n > 0:
+    print(n)
+    n = n -1
+print("that is it")
