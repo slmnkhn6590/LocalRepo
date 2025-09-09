@@ -1,5 +1,5 @@
-User_name = input("what is your name?")
-Amount_of_money = int(input("How much money do you have?")) / 100
+User_name = input("what is your name? ")
+Amount_of_money = int(input("How much money do you have? ")) / 100
 Rate_of_interest = int(input("please enter the rate in percent per year "))
 Duration_of_holding = int(input("for how long you want to keep it in years "))
 
